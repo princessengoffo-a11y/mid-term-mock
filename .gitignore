@@ -58,5 +58,4 @@ nunit-*.xml
 
 # Teacher's requirements
 *.dll
-/temp/
 temp/
